@@ -225,8 +225,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
   width: 536px;
   height: 536px;
   left: 180px;  
-  -ms-transform: rotate(-90deg);
-  transform: rotate(-90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
 
 }
 
