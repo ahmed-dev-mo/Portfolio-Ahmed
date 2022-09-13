@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
-<link rel="stylesheet"
-	media="(min-width: 500px)"
-	href="min-500px.css" />
+
 *{
     margin: 0;
     padding: 0;
